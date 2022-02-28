@@ -27,3 +27,15 @@ i {
     transform: rotate(25deg);
     color:black;
 }
+img {
+    width: 2em;
+}
+img:hover {
+    transform: scale(1.1);
+}
+ul {
+    text-align: center;
+}
+li {
+    display: inline;
+}
